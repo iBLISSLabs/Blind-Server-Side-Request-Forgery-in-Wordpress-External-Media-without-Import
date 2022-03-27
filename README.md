@@ -16,7 +16,7 @@ After trying to directly access the service, we are not successful
 
 ![image](https://user-images.githubusercontent.com/70114276/160253917-67d86a0d-a9ef-499f-b660-45bf18556550.png)
 
-So we can perform a fake requests with this plugin through the add an image function
+So, we can perform a fake requests with this plugin through the add an image function
 
 ![image](https://user-images.githubusercontent.com/70114276/160254035-6bb3a72d-c525-4e41-94a4-9caac749ba28.png)
 
